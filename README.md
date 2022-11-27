@@ -1,4 +1,4 @@
-# FHTW_LPA_PROG
+# FHTW_LPA_PROG - Einführung in die objektorientierte Programmierung
 
 __Have a little fun with Java!__
 
